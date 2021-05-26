@@ -3,7 +3,7 @@ package project;
 public class Rasel {
     public int salary;
     Rasel (){
-        salary=50000;
+        salary=80000;
     }
 
     public void print(){
